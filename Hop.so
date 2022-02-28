@@ -1,0 +1,2 @@
+from hst import main
+main()
